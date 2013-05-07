@@ -15,6 +15,7 @@ sudo apt install love
 <br>
 
 <strong>Lua & Love Tutorials:</strong>
+<br>
 <a href="https://www.love2d.org/wiki/Main_Page">Love Main Page</a>
 <br>
 <br>
