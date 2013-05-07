@@ -12,7 +12,7 @@ Download Love <a href="https://love2d.org/">here</a>.
 <br>
 Debian(http://packages.debian.org/source/squeeze/love):
 <br>
-suda apt install love
+sudo apt install love
 
 
 Lua & Love Tutorials:
