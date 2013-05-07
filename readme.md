@@ -6,17 +6,18 @@ you can find the tutorial on which this game is based.  Hope you enjoy!
 
 Installation:
 <br>
-Windows, Mac, Ubuntu:
-<br>
+Windows, Mac, Ubuntu:&nbsp;
 Download Love <a href="https://love2d.org/">here</a>.
 <br>
-Debian(http://packages.debian.org/source/squeeze/love):
-<br>
+Debian(http://packages.debian.org/source/squeeze/love):&nbsp;
 sudo apt install love
-
+<br>
+<br>
 
 Lua & Love Tutorials:
 <a href="https://www.love2d.org/wiki/Main_Page">Love Main Page</a>
 
 Getting it to run:
-Once love is installed
+<br>
+Once love is installed, navigate to directory containing the file you want 
+to run and type <code>love <name of file></code>.
